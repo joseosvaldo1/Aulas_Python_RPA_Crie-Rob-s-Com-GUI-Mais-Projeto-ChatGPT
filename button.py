@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 21 12:35:07 2023
-
-@author: 02501445309
-"""
-
-
 from tkinter import Tk, Button, messagebox
 
 
