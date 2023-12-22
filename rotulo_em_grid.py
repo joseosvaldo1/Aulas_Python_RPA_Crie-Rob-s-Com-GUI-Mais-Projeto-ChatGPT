@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 19 11:42:56 2023
-
-@author: 02501445309
-"""
 from tkinter import Tk, Label, Frame
 
 # Tk - é uma biblioteca do Tkinter
