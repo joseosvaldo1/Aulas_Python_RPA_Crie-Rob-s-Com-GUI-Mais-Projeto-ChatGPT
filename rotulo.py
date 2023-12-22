@@ -1,18 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 19 10:59:02 2023
-
-@author: 02501445309
-"""
-
-"""
-Created on Tue Dec 19 09:48:37 2023
-
-@author: 02501445309
-"""
-
 from tkinter import Tk, Label
-
 
 # Tk - é uma biblioteca do Tkinter
 
